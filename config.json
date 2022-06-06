@@ -1,1 +1,18 @@
+  {
+    "prefix": "a!",
+    "BotName": "ModMail Bot",
 
+    "ServerID": "982173430000549952",
+    "ServerName": "PokeRush Support",
+    "ModeratorRole": "• Staff",
+    "ModMailCategoryName": "MODMAIL",
+    
+    "EmbedColor": "GRAY",
+    "CloseEmbedColor": "RED",
+    "OpenEmbedColor": "GREEN",
+    "EmbedFooter": "PokeRush Support",
+    
+    "StatusText": "PokeRush Support",
+    "StatusType": "STREAMING",
+    "StatusURL": "https://www.twitch.tv/facebook"
+}  
